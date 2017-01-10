@@ -9,3 +9,11 @@
          \/___/  \/_____/  \/_/  \/___/  \/_/\/_/   \/_/
 
 BitDay, a beautiful dynamic pixel wallpaper, packaged for the GNOME desktop.
+
+
+## Licensing
+
+The BitDay images are released to the public domain (see the UNLICENSE file
+for details). The rest of the codebase is modified from the gnome-backgrounds
+project, which is licensed under the GPL version 2 or later (see the COPYING
+file).
