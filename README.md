@@ -11,6 +11,13 @@
 BitDay, a beautiful dynamic pixel wallpaper, packaged for the GNOME desktop.
 
 
+## Configuration
+
+The timings of the dynamic wallpaper can be adjusted either in file
+`backgrounds/bitday-timed.xml.in` prior to installation or in file
+`/usr/share/backgrounds/bitday/bitday-timed.xml` after installation.
+
+
 ## Licensing
 
 The BitDay images are released to the public domain (see the UNLICENSE file
