@@ -14,6 +14,12 @@ cd $srcdir
 	exit 1
 }
 
+AUTORECONF=`which autoreconf`
+if test -z $AUTORECONF; then
+	echo "*** ERROR: No autoreconf found, please install it ***"
+	exit 1
+fi
+
 # shellcheck disable=SC2016
 PKG_NAME=$(autoconf --trace 'AC_INIT:$1' configure.ac)
 
