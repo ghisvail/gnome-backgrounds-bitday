@@ -11,6 +11,15 @@
 [BitDay], a beautiful dynamic pixel wallpaper, packaged for the GNOME desktop.
 
 
+## Installation
+
+```
+./autogen --prefix=/usr
+make
+make install
+```
+
+
 ## Configuration
 
 The default timings for the dynamic wallpaper were taken from the
