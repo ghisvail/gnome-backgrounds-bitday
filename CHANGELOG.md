@@ -2,6 +2,9 @@
 All notable changes to this project will be documented in this file.
 The format is based on [Keep a CHANGELOG](http://keepachangelog.com/).
 
+## 0.3.1 -- 2019-04-06
+- Fix project version in Meson files
+
 ## 0.3.0 -- 2019-04-06
 - Add support for Meson
 
