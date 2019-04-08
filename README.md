@@ -37,4 +37,4 @@ which is licensed under the GPL version 2 or later (see the COPYING file).
 
 [BitDay]: http://danny.care/bitday/download/
 [BitDay-for-Windows]: https://github.com/DannyCare/BitDay-for-Windows/
-[gnome-backgrounds]: https://github.com/GNOME/gnome-backgrounds/
+[gnome-backgrounds]: https://gitlab.gnome.org/GNOME/gnome-backgrounds/
