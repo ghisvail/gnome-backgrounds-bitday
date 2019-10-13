@@ -14,7 +14,8 @@
 ## Installation
 
 ```
-./autogen --prefix=/usr
+sudo apt install autoconf
+./autogen.sh --prefix=/usr
 make
 make install
 ```
