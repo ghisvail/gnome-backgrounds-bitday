@@ -1,5 +1,5 @@
 project('gnome-backgrounds-bitday',
-  version: '0.3.1',
+  version: '1.0.0',
   meson_version: '>= 0.41.0'
 )
 

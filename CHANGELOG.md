@@ -2,6 +2,10 @@
 All notable changes to this project will be documented in this file.
 The format is based on [Keep a CHANGELOG](http://keepachangelog.com/).
 
+## 1.0.0 -- 2019-12-12
+- Drop autotools build files
+- Update installation instructions
+
 ## 0.3.1 -- 2019-04-06
 - Fix project version in Meson files
 
