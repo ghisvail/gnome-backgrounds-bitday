@@ -13,10 +13,13 @@
 
 ## Installation
 
+First, ensure [Meson] is available on your system.
+
+Then, run the following commands:
+
 ```
-./autogen --prefix=/usr
-make
-make install
+meson --prefix=/usr builddir
+ninja -C builddir install
 ```
 
 
@@ -38,3 +41,4 @@ which is licensed under the GPL version 2 or later (see the COPYING file).
 [BitDay]: http://danny.care/bitday/download/
 [BitDay-for-Windows]: https://github.com/DannyCare/BitDay-for-Windows/
 [gnome-backgrounds]: https://gitlab.gnome.org/GNOME/gnome-backgrounds/
+[Meson]: https://mesonbuild.com/Getting-meson.html
