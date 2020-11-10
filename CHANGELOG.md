@@ -2,6 +2,9 @@
 All notable changes to this project will be documented in this file.
 The format is based on [Keep a CHANGELOG](http://keepachangelog.com/).
 
+## 1.0.1 -- 2020-11-10
+- Remove residual autotools files
+
 ## 1.0.0 -- 2019-12-12
 - Drop autotools build files
 - Update installation instructions
