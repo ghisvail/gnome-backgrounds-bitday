@@ -38,7 +38,7 @@ The rest of the codebase is modified from the [gnome-backgrounds] project,
 which is licensed under the GPL version 2 or later (see the COPYING file).
 
 
-[BitDay]: http://danny.care/bitday/download/
+[BitDay]: https://bitday.me/
 [BitDay-for-Windows]: https://github.com/DannyCare/BitDay-for-Windows/
 [gnome-backgrounds]: https://gitlab.gnome.org/GNOME/gnome-backgrounds/
 [Meson]: https://mesonbuild.com/Getting-meson.html
