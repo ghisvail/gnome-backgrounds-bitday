@@ -2,6 +2,11 @@
 All notable changes to this project will be documented in this file.
 The format is based on [Keep a CHANGELOG](http://keepachangelog.com/).
 
+## 1.0.2 -- 2022-04-30
+- Add GNOME 42 variants for early, mid and late days
+- Rebase build system on top of gnome-backgrounds
+- Migrate project to the Unlicense
+
 ## 1.0.1 -- 2020-11-10
 - Remove residual autotools files
 
