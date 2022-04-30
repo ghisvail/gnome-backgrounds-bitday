@@ -1,6 +1,6 @@
 project('gnome-backgrounds-bitday',
-  version: '1.0.0',
-  meson_version: '>= 0.41.0'
+  version: '1.0.2',
+  meson_version: '>= 0.50.0'
 )
 
 prefix = get_option('prefix')
