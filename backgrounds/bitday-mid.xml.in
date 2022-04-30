@@ -2,7 +2,7 @@
 <!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
 <wallpapers>
   <wallpaper deleted="false">
-    <name>BitDay Background</name>
+    <name>BitDay Mid</name>
     <filename>@BACKGROUNDDIR@/05-Mid-Afternoon.png</filename>
     <filename-dark>@BACKGROUNDDIR@/08-Mid-Evening.png</filename-dark>
     <options>zoom</options>
