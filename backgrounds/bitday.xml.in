@@ -3,7 +3,7 @@
 <wallpapers>
   <wallpaper deleted="false">
     <name>BitDay Background</name>
-    <filename>@datadir@/backgrounds/bitday/bitday-timed.xml</filename>
+    <filename>@BACKGROUNDDIR@/bitday-timed.xml</filename>
     <options>zoom</options>
     <shade_type>solid</shade_type>
     <pcolor>#3465a4</pcolor>

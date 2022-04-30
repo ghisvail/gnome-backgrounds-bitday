@@ -1,4 +1,5 @@
 dataconf = configuration_data()
+dataconf.set('BACKGROUNDDIR', backgrounddir)
 dataconf.set('datadir', datadir)
 
 bitday_timed = configure_file(
@@ -19,15 +20,23 @@ backgrounds = [
   '09-Late-Evening.png',
   '10-Early-Night.png',
   '11-Mid-Night.png',
-  '12-Late-Night.png'
+  '12-Late-Night.png',
+  bitday_timed
 ]
 
-install_data([bitday_timed] + backgrounds, install_dir: backgrounddir)
+install_data(backgrounds, install_dir: backgrounddir)
 
-bitday = configure_file(
-  input: 'bitday.xml.in',
-  output: 'bitday.xml',
-  configuration: dataconf
-)
-
-install_data([bitday], install_dir: metadatadir)
+foreach metadata : [
+  'bitday.xml',
+  'bitday-early.xml',
+  'bitday-mid.xml',
+  'bitday-late.xml'
+  ]
+  configure_file(
+    input: metadata + '.in',
+    output: metadata,
+    configuration: dataconf,
+    install: true,
+    install_dir: metadatadir
+  )
+endforeach

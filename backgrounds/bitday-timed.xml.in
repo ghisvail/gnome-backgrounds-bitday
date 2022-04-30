@@ -13,144 +13,144 @@
 <!-- 5:00 -->
 <static>
 <duration>17995.0</duration>
-<file>@datadir@/backgrounds/bitday/01-Early-Morning.png</file>
+<file>@BACKGROUNDDIR@/01-Early-Morning.png</file>
 </static>
 
 <transition type="overlay">
 <duration>5.0</duration>
-<from>@datadir@/backgrounds/bitday/01-Early-Morning.png</from>
-<to>@datadir@/backgrounds/bitday/02-Mid-Morning.png</to>
+<from>@BACKGROUNDDIR@/01-Early-Morning.png</from>
+<to>@BACKGROUNDDIR@/02-Mid-Morning.png</to>
 </transition>
 
 <!-- 10:00 -->
 <static>
 <duration>3595.0</duration>
-<file>@datadir@/backgrounds/bitday/02-Mid-Morning.png</file>
+<file>@BACKGROUNDDIR@/02-Mid-Morning.png</file>
 </static>
 
 <transition type="overlay">
 <duration>5.0</duration>
-<from>@datadir@/backgrounds/bitday/02-Mid-Morning.png</from>
-<to>@datadir@/backgrounds/bitday/03-Late-Morning.png</to>
+<from>@BACKGROUNDDIR@/02-Mid-Morning.png</from>
+<to>@BACKGROUNDDIR@/03-Late-Morning.png</to>
 </transition>
 
 <!-- 11:00 -->
 <static>
 <duration>3595.0</duration>
-<file>@datadir@/backgrounds/bitday/03-Late-Morning.png</file>
+<file>@BACKGROUNDDIR@/03-Late-Morning.png</file>
 </static>
 
 <transition type="overlay">
 <duration>5.0</duration>
-<from>@datadir@/backgrounds/bitday/03-Late-Morning.png</from>
-<to>@datadir@/backgrounds/bitday/04-Early-Afternoon.png</to>
+<from>@BACKGROUNDDIR@/03-Late-Morning.png</from>
+<to>@BACKGROUNDDIR@/04-Early-Afternoon.png</to>
 </transition>
 
 <!-- 12:00 -->
 <static>
 <duration>3595.0</duration>
-<file>@datadir@/backgrounds/bitday/04-Early-Afternoon.png</file>
+<file>@BACKGROUNDDIR@/04-Early-Afternoon.png</file>
 </static>
 
 <transition type="overlay">
 <duration>5.0</duration>
-<from>@datadir@/backgrounds/bitday/04-Early-Afternoon.png</from>
-<to>@datadir@/backgrounds/bitday/05-Mid-Afternoon.png</to>
+<from>@BACKGROUNDDIR@/04-Early-Afternoon.png</from>
+<to>@BACKGROUNDDIR@/05-Mid-Afternoon.png</to>
 </transition>
 
 <!-- 13:00 -->
 <static>
 <duration>7195.0</duration>
-<file>@datadir@/backgrounds/bitday/05-Mid-Afternoon.png</file>
+<file>@BACKGROUNDDIR@/05-Mid-Afternoon.png</file>
 </static>
 
 <transition type="overlay">
 <duration>5.0</duration>
-<from>@datadir@/backgrounds/bitday/05-Mid-Afternoon.png</from>
-<to>@datadir@/backgrounds/bitday/06-Late-Afternoon.png</to>
+<from>@BACKGROUNDDIR@/05-Mid-Afternoon.png</from>
+<to>@BACKGROUNDDIR@/06-Late-Afternoon.png</to>
 </transition>
 
 <!-- 15:00 -->
 <static>
 <duration>3595.0</duration>
-<file>@datadir@/backgrounds/bitday/06-Late-Afternoon.png</file>
+<file>@BACKGROUNDDIR@/06-Late-Afternoon.png</file>
 </static>
 
 <transition type="overlay">
 <duration>5.0</duration>
-<from>@datadir@/backgrounds/bitday/06-Late-Afternoon.png</from>
-<to>@datadir@/backgrounds/bitday/07-Early-Evening.png</to>
+<from>@BACKGROUNDDIR@/06-Late-Afternoon.png</from>
+<to>@BACKGROUNDDIR@/07-Early-Evening.png</to>
 </transition>
 
 <!-- 16:00 -->
 <static>
 <duration>7195.0</duration>
-<file>@datadir@/backgrounds/bitday/07-Early-Evening.png</file>
+<file>@BACKGROUNDDIR@/07-Early-Evening.png</file>
 </static>
 
 <transition type="overlay">
 <duration>5.0</duration>
-<from>@datadir@/backgrounds/bitday/07-Early-Evening.png</from>
-<to>@datadir@/backgrounds/bitday/08-Mid-Evening.png</to>
+<from>@BACKGROUNDDIR@/07-Early-Evening.png</from>
+<to>@BACKGROUNDDIR@/08-Mid-Evening.png</to>
 </transition>
 
 <!-- 18:00 -->
 <static>
 <duration>7195.0</duration>
-<file>@datadir@/backgrounds/bitday/08-Mid-Evening.png</file>
+<file>@BACKGROUNDDIR@/08-Mid-Evening.png</file>
 </static>
 
 <transition type="overlay">
 <duration>5.0</duration>
-<from>@datadir@/backgrounds/bitday/08-Mid-Evening.png</from>
-<to>@datadir@/backgrounds/bitday/09-Late-Evening.png</to>
+<from>@BACKGROUNDDIR@/08-Mid-Evening.png</from>
+<to>@BACKGROUNDDIR@/09-Late-Evening.png</to>
 </transition>
 
 <!-- 20:00 -->
 <static>
 <duration>7195.0</duration>
-<file>@datadir@/backgrounds/bitday/09-Late-Evening.png</file>
+<file>@BACKGROUNDDIR@/09-Late-Evening.png</file>
 </static>
 
 <transition type="overlay">
 <duration>5.0</duration>
-<from>@datadir@/backgrounds/bitday/09-Late-Evening.png</from>
-<to>@datadir@/backgrounds/bitday/10-Early-Night.png</to>
+<from>@BACKGROUNDDIR@/09-Late-Evening.png</from>
+<to>@BACKGROUNDDIR@/10-Early-Night.png</to>
 </transition>
 
 <!-- 22:00 -->
 <static>
 <duration>7195.0</duration>
-<file>@datadir@/backgrounds/bitday/10-Early-Night.png</file>
+<file>@BACKGROUNDDIR@/10-Early-Night.png</file>
 </static>
 
 <transition type="overlay">
 <duration>5.0</duration>
-<from>@datadir@/backgrounds/bitday/10-Early-Night.png</from>
-<to>@datadir@/backgrounds/bitday/11-Mid-Night.png</to>
+<from>@BACKGROUNDDIR@/10-Early-Night.png</from>
+<to>@BACKGROUNDDIR@/11-Mid-Night.png</to>
 </transition>
 
 <!-- 0:00 -->
 <static>
 <duration>7195.0</duration>
-<file>@datadir@/backgrounds/bitday/11-Mid-Night.png</file>
+<file>@BACKGROUNDDIR@/11-Mid-Night.png</file>
 </static>
 
 <transition type="overlay">
 <duration>5.0</duration>
-<from>@datadir@/backgrounds/bitday/11-Mid-Night.png</from>
-<to>@datadir@/backgrounds/bitday/12-Late-Night.png</to>
+<from>@BACKGROUNDDIR@/11-Mid-Night.png</from>
+<to>@BACKGROUNDDIR@/12-Late-Night.png</to>
 </transition>
 
 <!-- 2:00 -->
 <static>
 <duration>10795.0</duration>
-<file>@datadir@/backgrounds/bitday/12-Late-Night.png</file>
+<file>@BACKGROUNDDIR@/12-Late-Night.png</file>
 </static>
 
 <transition type="overlay">
 <duration>5.0</duration>
-<from>@datadir@/backgrounds/bitday/12-Late-Night.png</from>
-<to>@datadir@/backgrounds/bitday/01-Early-Morning.png</to>
+<from>@BACKGROUNDDIR@/12-Late-Night.png</from>
+<to>@BACKGROUNDDIR@/01-Early-Morning.png</to>
 </transition>
 </background>
