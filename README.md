@@ -33,12 +33,10 @@ The default timings for the dynamic wallpaper were taken from the
 
 ## Licensing
 
-The BitDay images are released to the public domain (see the UNLICENSE file).
-The rest of the codebase is modified from the [gnome-backgrounds] project,
-which is licensed under the GPL version 2 or later (see the COPYING file).
+This project is licensed under the same [terms](./COPYING) as
+[BitDay-for-Windows] where the images were originally sourced from.
 
 
 [BitDay]: https://bitday.me/
 [BitDay-for-Windows]: https://github.com/DannyCare/BitDay-for-Windows/
-[gnome-backgrounds]: https://gitlab.gnome.org/GNOME/gnome-backgrounds/
 [Meson]: https://mesonbuild.com/Getting-meson.html
