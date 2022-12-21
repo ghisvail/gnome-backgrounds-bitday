@@ -4,7 +4,7 @@
   <wallpaper deleted="false">
     <name>BitDay Mid</name>
     <filename>@BACKGROUNDDIR@/05-Mid-Afternoon.png</filename>
-    <filename-dark>@BACKGROUNDDIR@/08-Mid-Evening.png</filename-dark>
+    <filename-dark>@BACKGROUNDDIR@/11-Mid-Night.png</filename-dark>
     <options>zoom</options>
     <shade_type>solid</shade_type>
     <pcolor>#3465a4</pcolor>

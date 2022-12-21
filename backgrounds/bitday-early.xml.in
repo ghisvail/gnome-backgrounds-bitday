@@ -3,8 +3,8 @@
 <wallpapers>
   <wallpaper deleted="false">
     <name>BitDay Early</name>
-    <filename>@BACKGROUNDDIR@/04-Early-Afternoon.png</filename>
-    <filename-dark>@BACKGROUNDDIR@/07-Early-Evening.png</filename-dark>
+    <filename>@BACKGROUNDDIR@/07-Early-Evening.png</filename>
+    <filename-dark>@BACKGROUNDDIR@/10-Early-Night.png</filename-dark>
     <options>zoom</options>
     <shade_type>solid</shade_type>
     <pcolor>#3465a4</pcolor>
